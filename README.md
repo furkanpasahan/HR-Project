@@ -2,6 +2,8 @@
 
 Bir şirketteki insan kaynakları departmanında personellere ait  veriler mevcuttur. 9 adet bağımsız değişken ile 1 bağımlı değişkenin (left) tahminlemesi yapılmıştır. Şirket bünyesinde çalışan bilgilerinden şirketten ayrılıp ayrılmayacağına dair iki sınıflı sınıflandırma problemidir.
 
+------------------------------------------------------------------------------------------------------------
+
 satisfaction_level: Çalışan memnuniyet düzeyidir.
 
 last_evaluation: Çalışanın değerlendirmesi için aldığı puan.
